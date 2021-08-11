@@ -1,4 +1,4 @@
-# Guide for first time project contributors
+# Guide for beginning contributors
 
 ## Index
 

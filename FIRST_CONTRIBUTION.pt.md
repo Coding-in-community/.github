@@ -1,4 +1,4 @@
-# Guia Para Contribuidores do Projeto
+# Guia para Contribuidores iniciantes
 
 ## Index
 
@@ -21,7 +21,7 @@
 
 Para fazer contribuições certifique-se de que tenha o [git](https://git-scm.com/) instalado em seu ambiente.
 
-Com o **git** já instalado, siga os passoa abaixo.
+Com o **git** já instalado, siga os passos abaixo.
 
 ### 1º Passo
 
@@ -136,7 +136,7 @@ Para sincronizar o fork/clone com as novas features que tem no repositório ofic
 
 ### Sincronize o clone
 
-Certifique-se de estar na branch padrão, que para esse projeto é a `master`:
+Certifique-se de estar na branch padrão, que comumente é a `master`:
 
 ```bash
 $ git checkout master
